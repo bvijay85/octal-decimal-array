@@ -1,0 +1,12 @@
+
+*.class
+target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.settings/
+
+.DS_Store
